@@ -2,4 +2,4 @@
 
 You can use this bot to sabotage server.
 
-made by Mr.Tom#0001
+Edit by Mr.Tom#0001
